@@ -1,0 +1,35 @@
+
+
+
+	1. Create a package called animals. 
+	Create an interface Animal with two methods eat() and  travel(). 
+	Name this file as Animal. 
+	Now implement the above interface in the same package animals but in a different java file called WildAnimals. [Package and Interface]
+
+
+
+
+	2. Create a package called shapes. 
+	Create an interface Property with two methods color() and  dimension(). 
+	Name this file as Property. 
+	Now implement the above interface in the same package shapes but in a different java file called Rectangle. [Package and Interface]
+
+
+
+
+	3. Create a package called pack. Create a class Chocolates. 
+	Create a method msg() in the class Chocolates with a printing message “I love chocolates and ice-cream.” 
+	Now create another package called mypack. 
+	Create a class IceCream in mypack package. 
+	Create object and call the msg() method from this package. Use “import” to make the packages accessible. [Multiple packages]
+
+
+
+
+
+	4. Create a package called firstpack. 
+	Create a class Cricket. Create a method msg() in the class Cricket with a printing message “I love Cricket and Badminton both.” 
+	Now create another package called secondpack. 
+	Create a class Badminton in secondpack package. 
+	Create object and call the msg() method from this package. 
+	Use “import” to make the packages accessible. [Multiple packages]
